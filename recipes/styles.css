@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(gray, white);
+}
+img {
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+* {
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-shadow: .02em .02em gray;
+}
