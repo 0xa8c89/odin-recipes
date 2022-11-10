@@ -1,6 +1,6 @@
 body {
     background-image: linear-gradient(gray, white);
-    height: 100vh;
+    min-height: 100vh;
 }
 img {
     width: 250px;
